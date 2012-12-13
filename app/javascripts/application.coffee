@@ -1,0 +1,2 @@
+$ ->
+  # It's CoffeeScript time
