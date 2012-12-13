@@ -31,7 +31,7 @@ To add stylesheets and javascripts, place them in `app/stylesheets` and `app/jav
 Requirements
 ------------
 
-If you're one of these trendy web developer types, you'll no doubt have [Node.js](http://nodejs.org/) and [CoffeeScript](http://coffeescript.org/) installed already. If not, [install Node] and then [install CoffeeScript](http://coffeescript.org/#installation).
+If you're one of these trendy web developer types, you'll no doubt have [Node.js](http://nodejs.org/) and [CoffeeScript](http://coffeescript.org/) installed already. If not, [download & install Node](http://nodejs.org/download/) and then [install CoffeeScript](http://coffeescript.org/#installation).
 
 Customisation
 -------------
