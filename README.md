@@ -19,8 +19,8 @@ Grab the latest version from GitHub, install the gems, and start the server.
 ```bash
 $ git clone git://github.com/alexpearce/sinatra-template.git my-app-name
 $ cd my-app-name
-$ bundle install --path=vendor/prefix
-$ shotgun
+$ bundle install --path=vendor/bundle
+$ bundle exec shotgun
 == Shotgun/WEBrick on http://127.0.0.1:9393/
 ```
 
